@@ -1,0 +1,32 @@
+  <!-- Right Content Wrapper -->
+  <div class="sm:ml-8 ">
+   <!-- Download Buttons Section -->
+   <div class="space-y-5 sm:space-y-6 sm:flex">
+       <!-- iOS Download -->
+       <div class="bg-purple-400/30 rounded-3xl p-6 text-white">
+           <h3 class="text-xl mb-4">For IOS</h3>
+           <button class="bg-white text-[#3F2179] px-6 py-2 rounded-full mb-6 font-medium">
+               Download Now
+           </button>
+           <div class="flex items-center justify-between">
+               <div class="w-24 h-24 bg-white p-2 rounded-lg">
+                   <img src="qr-code.png" alt="QR Code" class="w-full h-full">
+               </div>
+               <img src="apple-logo.png" alt="Apple Logo" class="w-12 h-12 ml-4">
+           </div>
+       </div>
+
+       <!-- Android Download -->
+       <div class="bg-purple-400/30 rounded-3xl p-6 text-white">
+         <h3 class="text-xl mb-4">For IOS</h3>
+         <button class="bg-white text-[#3F2179] px-6 py-2 rounded-full mb-6 font-medium">
+             Download Now
+         </button>
+         <div class="flex items-center justify-between">
+             <div class="w-24 h-24 bg-white p-2 rounded-lg">
+                 <img src="qr-code.png" alt="QR Code" class="w-full h-full">
+             </div>
+             <img src="android-logo.png" alt="Android Logo" class="w-12 h-12 ml-4">
+         </div>
+      </div>
+   </div>
